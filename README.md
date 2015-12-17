@@ -1,6 +1,6 @@
 # Installation
 
-    composer global config -g repositories.si vcs git@bitbucket.org:simesy/mine.git
+    composer global config -g repositories.si vcs git@github.com:simesy/mine.git
     composer global require simesy/mine:dev-master
 
 Add the following line to .bashrc or .bashp_profile:
