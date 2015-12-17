@@ -1,0 +1,14 @@
+{
+    "name": "simesy/mine",
+    "description": "Misc things that simesy wants on other pewters.",
+    "type": "Scripts",
+    "authors": [
+        {
+            "name": "Si Hobbs",
+            "email": "simon@hobbs.id.au"
+        }
+    ],
+    "bin": [
+        "scripts/git_setup"
+    ]
+}
